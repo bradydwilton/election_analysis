@@ -21,7 +21,6 @@ election_date = input("\nEnter the date (mm/dd/yyyy) of the election: ")
 
 # Initialize a total vote counter.
 total_votes = 0
-
 # Candidate Options and candidate votes.
 candidate_options = []
 candidate_votes = {}
